@@ -25,4 +25,11 @@ calisan1.name = "Ali"
 calisan1.surname = ""Veli"
 calisan1.age = 20
 
+## Using loops = döngüler Okumak
+
+sea = open("fishes.txt", "r")
+for line in sea:
+    print(line
+sea.close()
+
 
