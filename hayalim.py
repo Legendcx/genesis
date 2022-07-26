@@ -17,3 +17,12 @@ c = "May & Kyk"
 
 print(f"{a} ve {b}'nun çocukları olan {c} okula gidiyorlar.")
 ## Burada ben f string metoduna kullandım. herkese başarılar.
+
+class calisan:
+    
+calisan1 = calisan()
+calisan1.name = "Ali"
+calisan1.surname = ""Veli"
+calisan1.age = 20
+
+
