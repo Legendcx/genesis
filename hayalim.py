@@ -32,4 +32,7 @@ for line in sea:
     print(line
 sea.close()
 
+print("Hayat olduğu gibi güzel.")
+
+
 
