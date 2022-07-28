@@ -33,6 +33,9 @@ for line in sea:
 sea.close()
 
 print("Hayat olduğu gibi güzel.")
+          
+b = "Burhan Nasıl?"
+print(b.capitalize())
 
 
 
