@@ -36,6 +36,6 @@ print("Hayat olduğu gibi güzel.")
           
 b = "Burhan Nasıl?"
 print(b.capitalize())
-
+print(b.upper())
 
 
