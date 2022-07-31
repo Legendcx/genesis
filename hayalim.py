@@ -41,4 +41,15 @@ print(b.upper())
 def modular_function(n):
     return lambda x: x**n
 
-print(modular_function(3)
+print(modular_function(3))
+
+word = input("give me a word")
+
+counter = 0
+for i in word:
+    counter += 1
+    if counter < len(word):
+        i += "_"
+    print(i, end="")
+
+
