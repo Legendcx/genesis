@@ -38,4 +38,7 @@ b = "Burhan Nasıl?"
 print(b.capitalize())
 print(b.upper())
 
+def modular_function(n):
+    return lambda x: x**n
 
+print(modular_function(3)
