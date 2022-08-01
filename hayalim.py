@@ -51,5 +51,12 @@ for i in word:
     if counter < len(word):
         i += "_"
     print(i, end="")
+          
+veli = [1,2,3,4,5,6,7,8,9,10]
+for i in veli:
+          if i % 2 == 0:
+            print(i)
+          else:
+            print(i)
 
 
