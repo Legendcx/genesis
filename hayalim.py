@@ -58,5 +58,5 @@ for i in veli:
             print(i)
           else:
             print(i)
-
+print("burhan")
 
